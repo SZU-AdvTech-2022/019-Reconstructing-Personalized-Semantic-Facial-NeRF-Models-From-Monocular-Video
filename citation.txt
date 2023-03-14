@@ -1,0 +1,8 @@
+@article{REPO-019,
+    author = "Gao, Xuan and Zhong, Chenglai and Xiang, Jun and Hong, Yang and Guo, Yudong and Zhang, Juyong",
+    journal = "ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia)",
+    number = "6",
+    title = "{Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video}",
+    volume = "41",
+    year = "2022"
+}
